@@ -1,0 +1,29 @@
+.url__section   {
+    width:100%;
+    padding-top: 13px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.url__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    width: 85%;
+    background: rgba(0, 0, 0, 0.08);
+border-radius: 12px;
+padding: 0 15px;
+}
+
+.url__input, .url__text__style {
+    display: flex;        
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+}
+
+.url__input  p{
+    padding: 0 5px;
+}

@@ -1,0 +1,22 @@
+.headingimage_main   {
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+
+.heading_div   {
+    display: flex;  
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.headingImage   {
+    width: 50%;
+    height: 50%;
+    filter: drop-shadow(0px 0px 17.6435px rgba(0, 0, 0, 0.05));
+}
